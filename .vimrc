@@ -90,6 +90,8 @@ Plug 'jpalardy/vim-slime'
 
 Plug 'kkoenig/wimproved.vim'
 
+Plug 'tpope/vim-fugitive'
+
 " Initialize plugin system
 call plug#end()
 
