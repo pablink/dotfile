@@ -318,4 +318,9 @@ function! WinMove(key)
 endfunction
 
 "this another test"
+"
 nnoremap <F2> :e ~/.vimrc<cr>
+nnoremap <F2><F2> :w <cr> :source %<cr>
+
+"this is another test"
+
