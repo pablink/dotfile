@@ -318,3 +318,4 @@ function! WinMove(key)
 endfunction
 
 "this another test"
+nnoremap <F2> :e ~/.vimrc<cr>
